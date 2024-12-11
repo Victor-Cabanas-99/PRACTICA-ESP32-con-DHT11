@@ -13,7 +13,6 @@ La Esp32 es una tarjeta de adquisición de datos, paralo cual en esta practica o
 
 ```
 #include "DHTesp.h"
-#include <LiquidCrystal_I2C.h>
 
 const int DHT_PIN = 15;
 DHTesp dhtSensor;
@@ -37,11 +36,11 @@ void loop() {
 ```
 2. Instalar la libreria de **DHT sensor library for ESPx** como se muestra en la siguente imagen.
 
-![]()
+![](https://github.com/Victor-Cabanas-99/PRACTICA-ESP32-con-DHT11/blob/main/DHT11%20LIBRERIA.PNG?raw=true)
 
 3. Hacer la conexion de **DHT11** con la **ESP32** como se muestra en la siguente imagen.
 
-![]()
+![](https://github.com/Victor-Cabanas-99/PRACTICA-ESP32-con-DHT11/blob/main/DHT11%20RESULTADOS.PNG?raw=true)
 
 ### Instrucciónes de operación
 
@@ -52,7 +51,7 @@ void loop() {
 ## Resultados
 
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
-![]()
+![](https://github.com/Victor-Cabanas-99/PRACTICA-ESP32-con-DHT11/blob/main/DHT11%20RESULTADOS.PNG?raw=true)
 
 
 
