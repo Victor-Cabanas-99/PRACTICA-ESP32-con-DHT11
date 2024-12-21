@@ -54,6 +54,5 @@ Cuando haya funcionado, verás los valores dentro del monitor serial como se mue
 ![](https://github.com/Victor-Cabanas-99/PRACTICA-ESP32-con-DHT11/blob/main/DHT11%20RESULTADOS.PNG?raw=true)
 
 ### Desarrollado por 
-VICTOR EMANUEL CABAÑAS MONTES
-[Victor](https://github.com/Victor-Cabanas-99)
+[VICTOR EMANUEL CABAÑAS MONTES](https://github.com/Victor-Cabanas-99)
 
